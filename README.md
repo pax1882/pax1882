@@ -6,3 +6,4 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.242.230.160:2087?path=%2F%3Fed%3
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.161:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=juzibaipiao.5112233.xyz&type=ws&sni=juzibaipiao.5112233.xyz#Myanmar+All+Sim+%26+Wifi+%7E+5
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.18.250.185:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=juzibaipiao.5112233.xyz&type=ws&sni=juzibaipiao.5112233.xyz#Myanmar+All+Sim+%26+Wifi+%7E+6
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.159:2096?path=%2F%3Fed%3D2048security%3Dtls&security=tls&encryption=none&host=juzibaipiao.5112233.xyz&fp=chrome&type=ws&sni=juzibaipiao.5112233.xyz#Myanmar+All+Sim+%26+Wifi+%7E+7
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@31.12.75.140:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=juzibaipiao.5112233.xyz&type=ws&sni=juzibaipiao.5112233.xyz#Yesy
